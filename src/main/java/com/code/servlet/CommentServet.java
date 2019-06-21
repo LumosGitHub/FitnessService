@@ -10,6 +10,9 @@ import java.io.IOException;
 import java.util.List;
 
 
+/**
+ * @author 刘冠麟
+ */
 public class CommentServet extends BaseMobileServlet {
 
     private static final long serialVersionUID = -8280552315331051134L;

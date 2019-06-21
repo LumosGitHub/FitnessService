@@ -1,7 +1,14 @@
 package com.code.entity;
 
 
+import org.springframework.stereotype.Repository;
 
+import javax.persistence.Entity;
+
+/**
+ * @author 刘冠麟
+ */
+@Repository
 public class NewsListItem {
 
     private String title;
